@@ -67,7 +67,6 @@
 	</dependencies>
 
 	<build>
-		<finalName>concurso</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
